@@ -195,7 +195,7 @@ setOrder(selectedProd)
                         color="primary"
                         variant="outlined"
                         size="small"
-                        onClick={handleClickOpen()}
+
                         // onClick={() => setOrder({ ...order}) }
                         sx={{
                             fontFamily: "'Abel', 'sansSerif'",
